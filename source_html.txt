@@ -1,0 +1,1582 @@
+
+					
+						
+
+
+
+
+<a id="comment-206446"></a>
+<article id="elComment_206446" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206446_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206446" data-quotedata="{&quot;userid&quot;:16141,&quot;username&quot;:&quot;\u043b\u0435\u043a\u0441&quot;,&quot;timestamp&quot;:1692447503,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206446}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль лекс">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2016_08/57aabb05e89b8_.png.3198472ac34e3aa0dd763fe08cb0c12a.thumb.png.31407e00871be72be0d62ebe1592a1af.png" alt="лекс" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль лекс" class="ipsType_break"><span style="color:#4161d4">лекс</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=16141&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 11,625
+	
+		</a>
+	
+
+    <span style="color:#4161d4">Выдающийся гражданин</span>
+	 +  <span style="color:#56890A">Советник</span>
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206446" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T12:18:23Z" title="08/19/2023 03:18:23  PM" data-short="Авг 19">19.08.2023, 15:18:23</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206446_menu" class="ipsComment_ellipsis" id="elControlsComments_206446" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206446_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206446_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206446' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206446" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206446_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206446" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="206445" data-ipsquote-contentid="36151" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1692447257" data-ipsquote-userid="82816" data-ipsquote-username="Москит" id="ips_uid_619_1178">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>     <a class="ipsPos_right" href="//www.strategium.ru/forum/?app=core&amp;module=system&amp;controller=content&amp;do=find&amp;content_class=core_Messenger_Conversation&amp;content_id=36151&amp;content_commentid=206445"><i class="fa fa-share"></i></a>    В 8/19/2023 в 3:14 PM,   <a href="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=82816" data-ipshover="" data-ipshover-target="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=82816&amp;do=hovercard">Москит</a> сказал: </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			Что это, как не поддержка тех, кто обвинил нас в распространении детской порнографии?
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	У вас там педобир.
+</p>
+
+<blockquote class="ipsQuote" data-ipsquote="" id="ips_uid_619_1179">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>    
+		Цитата
+	 </div>
+
+	<div class="ipsQuote_contents ipsClearfix ipsTruncate" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть" style="position: relative; height: 156.8px;" data-truncated="true">
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			УК РФ:
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			Статья 242.1. Изготовление и оборот материалов или предметов с порнографическими изображениями несовершеннолетних
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			Примечания. 1. Под материалами и предметами с порнографическими изображениями несовершеннолетних в настоящей статье и статье 242.2 настоящего Кодекса понимаются материалы и предметы, содержащие любое изображение или описание в сексуальных целях:
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			полностью или частично<span>&nbsp;</span><strong>обнаженных половых органов</strong><span>&nbsp;</span>несовершеннолетнего;
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			несовершеннолетнего, совершающего либо<span>&nbsp;</span><strong>имитирующего половое сношение или иные действия сексуального характера</strong>;
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			<strong>полового сношения или иных действий сексуального характера,<span>&nbsp;</span></strong>совершаемых в отношении несовершеннолетнего или с его участием;
+		</p>
+
+		<p style="background-color:#e4e6e9;color:#222222;font-size:14px;">
+			совершеннолетнего лица, изображающего несовершеннолетнего,<span>&nbsp;</span><strong>совершающего либо имитирующего половое сношение или иные действия сексуального характера.</strong>
+		</p>
+	</div>  <a class="ipsTruncate_more" data-action="expandTruncate"><span>Развернуть &nbsp;<i class="fa fa-caret-down"></i></span></a>
+</blockquote>
+
+<p>
+	<strong>Где тут обвинение в распространении детской порнографии?</strong>
+</p>
+
+<p>
+	Нет тут детской порнографии в картинке забавного медвежонка.
+</p>
+
+<p>
+	Соответственно, н<strong>ет ничего порочащего</strong>, т.е. <strong>нет клеветы.</strong>
+</p>
+
+<p>
+	А в остальном, <strong>СП нечего браться за отдельные преды... просто из-за непонятной истерики... и <u>очередных</u> плачей типа уйдём, типа уходят.</strong>
+</p>
+
+<p>
+	&nbsp;
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206446" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206446" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206446" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206446&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206446_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206446&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206447"></a>
+<article id="elComment_206447" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206447_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206447" data-quotedata="{&quot;userid&quot;:82816,&quot;username&quot;:&quot;\u041c\u043e\u0441\u043a\u0438\u0442&quot;,&quot;timestamp&quot;:1692447732,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206447}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/82816-moskit/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/82816-moskit/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Москит">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2023_01/20050987.thumb.jpg.bc235e7e8507e2ce0e07f4b87cf0df5d.thumb.jpg.a8b8a3060a48a7e454a66aa431c58347.jpg" alt="Москит" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/82816-moskit/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/82816-moskit/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Москит" class="ipsType_break"><span style="color:#555555">Москит</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=82816&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 8,568
+	
+		</a>
+	
+
+    <span style="color:#555555">Вне политики</span>
+	
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206447" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T12:22:12Z" title="08/19/2023 03:22:12  PM" data-short="Авг 19">19.08.2023, 15:22:12</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206447_menu" class="ipsComment_ellipsis" id="elControlsComments_206447" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206447_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206447_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206447' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206447" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206447_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206447" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="206446" data-ipsquote-contentid="36151" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1692447503" data-ipsquote-userid="16141" data-ipsquote-username="лекс" id="ips_uid_619_1180">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>     <a class="ipsPos_right" href="//www.strategium.ru/forum/?app=core&amp;module=system&amp;controller=content&amp;do=find&amp;content_class=core_Messenger_Conversation&amp;content_id=36151&amp;content_commentid=206446"><i class="fa fa-share"></i></a>    В 8/19/2023 в 3:18 PM,   <a href="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=16141" data-ipshover="" data-ipshover-target="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=16141&amp;do=hovercard">лекс</a> сказал: </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			Нет тут детской порнографии в картинке забавного медвежонка.
+		</p>
+	</div>
+</blockquote>
+
+<blockquote class="ipsQuote" data-ipsquote="" id="ips_uid_619_1181">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>    
+		Цитата
+	 </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			<b style="background-color:#ffffff;color:#202122;font-size:14px;">Педобир</b><span style="background-color:#ffffff;color:#202122;font-size:14px;"><span>&nbsp;</span>(от<span>&nbsp;</span></span><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" style="color:#0645ad;font-size:14px;" title="Английский язык" rel="external nofollow noopener" target="_blank">англ.</a><span style="background-color:#ffffff;color:#202122;font-size:14px;">&nbsp;</span><span lang="en" style="background-color:#ffffff;color:#202122;font-size:14px;" xml:lang="en">Pedobear</span><span style="background-color:#ffffff;color:#202122;font-size:14px;">&nbsp;— досл.<span>&nbsp;</span></span><b style="background-color:#ffffff;color:#202122;font-size:14px;">Педомедведь</b><sup style="background-color:#ffffff;color:#202122;font-size:11.2px;"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%BE%D0%B1%D0%B8%D1%80#cite_note-%D0%9B%D0%B5%D0%BD%D1%82%D0%B0-1" style="color:#0645ad;" rel="external nofollow noopener" target="_blank">[1]</a></sup><span style="background-color:#ffffff;color:#202122;font-size:14px;">)&nbsp;—<span>&nbsp;</span></span><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D0%BC" style="color:#0645ad;font-size:14px;" title="Интернет-мем" rel="external nofollow noopener" target="_blank">интернет-мем</a><span style="background-color:#ffffff;color:#202122;font-size:14px;">, персонаж сетевого фольклора, представляющий собой<span>&nbsp;</span></span><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC" style="color:#0645ad;font-size:14px;" title="Антропоморфизм" rel="external nofollow noopener" target="_blank">антропоморфного</a><span style="background-color:#ffffff;color:#202122;font-size:14px;"><span>&nbsp;</span>медведя-</span><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%8F" style="color:#0645ad;font-size:14px;" title="Педофилия" rel="external nofollow noopener" target="_blank">педофила</a><sup style="background-color:#ffffff;color:#202122;font-size:11.2px;"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%BE%D0%B1%D0%B8%D1%80#cite_note-%D0%9B%D0%B5%D0%BD%D1%82%D0%B0-1" style="color:#0645ad;" rel="external nofollow noopener" target="_blank">[1]</a></sup><sup style="background-color:#ffffff;color:#202122;font-size:11.2px;"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B4%D0%BE%D0%B1%D0%B8%D1%80#cite_note-2" style="color:#0645ad;" rel="external nofollow noopener" target="_blank">[2]</a></sup><span style="background-color:#ffffff;color:#202122;font-size:14px;">.</span>
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	Не знаю, как тебе, а мне медведь-педофил не кажется забавным.
+</p>
+
+<p>
+	И твою трактовку автор клеветы нигде не поддерживал, нигде не написал "ой, я ж просто медвежонка имел ввиду, извините, неудачно пошутил". Добро сказал то, что сказал, а ты юлишь в попытке доказать, что "ничего страшного".
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206447" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206447" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206447" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206447&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206447_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206447&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206448"></a>
+<article id="elComment_206448" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206448_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206448" data-quotedata="{&quot;userid&quot;:16141,&quot;username&quot;:&quot;\u043b\u0435\u043a\u0441&quot;,&quot;timestamp&quot;:1692448213,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206448}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль лекс">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2016_08/57aabb05e89b8_.png.3198472ac34e3aa0dd763fe08cb0c12a.thumb.png.31407e00871be72be0d62ebe1592a1af.png" alt="лекс" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль лекс" class="ipsType_break"><span style="color:#4161d4">лекс</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=16141&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 11,625
+	
+		</a>
+	
+
+    <span style="color:#4161d4">Выдающийся гражданин</span>
+	 +  <span style="color:#56890A">Советник</span>
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206448" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T12:30:13Z" title="08/19/2023 03:30:13  PM" data-short="Авг 19">19.08.2023, 15:30:13</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206448_menu" class="ipsComment_ellipsis" id="elControlsComments_206448" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206448_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206448_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206448' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206448" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206448_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206448" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="206447" data-ipsquote-contentid="36151" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1692447732" data-ipsquote-userid="82816" data-ipsquote-username="Москит" id="ips_uid_619_1182">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>     <a class="ipsPos_right" href="//www.strategium.ru/forum/?app=core&amp;module=system&amp;controller=content&amp;do=find&amp;content_class=core_Messenger_Conversation&amp;content_id=36151&amp;content_commentid=206447"><i class="fa fa-share"></i></a>    В 8/19/2023 в 3:22 PM,   <a href="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=82816" data-ipshover="" data-ipshover-target="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=82816&amp;do=hovercard">Москит</a> сказал: </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			Не знаю, как тебе, а мне медведь-педофил не кажется забавным.
+		</p>
+
+		<p>
+			И твою трактовку автор клеветы нигде не поддерживал, нигде не написал "ой, я ж просто медвежонка имел ввиду, извините, неудачно пошутил". Добро сказал то, что сказал, а ты юлишь в попытке доказать, что "ничего страшного".
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	Не нужны цитаты из Вики.
+</p>
+
+<p>
+	Определение что есть детская порнография достаточно чёткое "<strong>порнографическое ИЗОБРАЖЕНИЕ несовершеннолетних..."</strong>
+</p>
+
+<p>
+	<strong>1.Порнографическое - т.е. половые органы, сношение</strong>
+</p>
+
+<p>
+	<strong>2.Изображение - т.е. изображение (не пояснения из Вики) половых органов и сношения.</strong>
+</p>
+
+<p>
+	<strong>3.Несовершеннолетних - т.е. не медведя, а несовершеннолетних.&nbsp;</strong>
+</p>
+
+<p>
+	<strong>Где это всё в этой картинке?</strong>
+</p>
+
+<p>
+	<a href="https://steamuserimages-a.akamaihd.net/ugc/1827905684314653036/194B953E7EDBC49D557D9A8EF9ECA996887E961C/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" title="Увеличить изображение" data-fileid="undefined" data-wrappedlink="" data-ipslightbox="" data-ipslightbox-group="undefined"><img alt="?imw=512&amp;amp;imh=320&amp;amp;ima=fit&amp;amp;impolicy=Letterbox&amp;amp;imcolor=%23000000&amp;amp;letterbox=true" data-ratio="66.67" style="height:auto;" width="900" data-src="https://steamuserimages-a.akamaihd.net/ugc/1827905684314653036/194B953E7EDBC49D557D9A8EF9ECA996887E961C/?imw=512&amp;amp;imh=320&amp;amp;ima=fit&amp;amp;impolicy=Letterbox&amp;amp;imcolor=%23000000&amp;amp;letterbox=true" src="https://steamuserimages-a.akamaihd.net/ugc/1827905684314653036/194B953E7EDBC49D557D9A8EF9ECA996887E961C/?imw=512&amp;amp;imh=320&amp;amp;ima=fit&amp;amp;impolicy=Letterbox&amp;amp;imcolor=%23000000&amp;amp;letterbox=true" class="ipsImage_thumbnailed" data-loaded="true"></a></p>
+
+<p>
+	<strong>Вот когда найдёшь "порнографическое изображение несовершеннолетних" в этой картинке вот тогда и приходи. А пока разговор ни о чём.</strong>
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206448" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206448" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206448" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206448&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206448_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206448&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206452"></a>
+<article id="elComment_206452" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206452_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206452" data-quotedata="{&quot;userid&quot;:32882,&quot;username&quot;:&quot;Igrok23&quot;,&quot;timestamp&quot;:1692458091,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206452}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/32882-igrok23/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/32882-igrok23/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Igrok23">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2023_10/the-patriot-1.thumb.jpg.e27702b7cf3dcaa5cddeba68f3e59ecf.jpg" alt="Igrok23" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/32882-igrok23/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/32882-igrok23/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Igrok23" class="ipsType_break"><span style="font-weight:bold;color:#BF0000">Igrok23</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=32882&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 3,780
+	
+		</a>
+	
+
+    <span style="font-weight:bold;color:#BF0000">Министр</span>
+	 +  <span style="color:#56890A">Магистр Спорта</span>
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206452" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T15:14:51Z" title="08/19/2023 06:14:51  PM" data-short="Авг 19">19.08.2023, 18:14:51</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206452_menu" class="ipsComment_ellipsis" id="elControlsComments_206452" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206452_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206452_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206452' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206452" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206452_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206452" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<p>
+	пользователь <a contenteditable="false" data-ipshover="" data-ipshover-target="https://www.strategium.ru/forum/profile/104539-darkest/?do=hovercard" data-mentionid="104539" href="https://www.strategium.ru/forum/profile/104539-darkest/" rel="">@DARKEST</a>&nbsp;удален из Совета Партий по собственному желанию.
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206452" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206452" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206452" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206452&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206452_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206452&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206454"></a>
+<article id="elComment_206454" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206454_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206454" data-quotedata="{&quot;userid&quot;:82816,&quot;username&quot;:&quot;\u041c\u043e\u0441\u043a\u0438\u0442&quot;,&quot;timestamp&quot;:1692458437,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206454}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/82816-moskit/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/82816-moskit/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Москит">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2023_01/20050987.thumb.jpg.bc235e7e8507e2ce0e07f4b87cf0df5d.thumb.jpg.a8b8a3060a48a7e454a66aa431c58347.jpg" alt="Москит" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/82816-moskit/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/82816-moskit/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Москит" class="ipsType_break"><span style="color:#555555">Москит</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=82816&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 8,568
+	
+		</a>
+	
+
+    <span style="color:#555555">Вне политики</span>
+	
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206454" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T15:20:37Z" title="08/19/2023 06:20:37  PM" data-short="Авг 19">19.08.2023, 18:20:37</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206454_menu" class="ipsComment_ellipsis" id="elControlsComments_206454" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206454_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206454_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206454' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206454" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206454_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206454" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<p>
+	В связи с прекращением деятельности партии "Приличное Общество" покидаю Совет Партий<img alt=":hello:" data-emoticon="" src="https://www.strategium.ru/forum/uploads/emoticons/hello.gif" title=":hello:"></p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206454" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206454" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206454" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206454&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206454_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206454&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206466"></a>
+<article id="elComment_206466" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206466_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206466" data-quotedata="{&quot;userid&quot;:65306,&quot;username&quot;:&quot;Alterus&quot;,&quot;timestamp&quot;:1692482436,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206466}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/65306-alterus/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/65306-alterus/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Alterus">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2022_05/2062136429_.thumb.jpg.1dbfcda613d156f9247c5cd07ab1a654.jpg" alt="Alterus" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Украина" data-ipsdialog="" data-ipsdialog-title="Пользователи из Украина" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ua">
+			<i class="ipsFlag ipsFlag-ua"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/65306-alterus/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/65306-alterus/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Alterus" class="ipsType_break"><span style="font-weight:bold;color:#1D3A6B">Alterus</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=65306&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 16,888
+	
+		</a>
+	
+
+    <span style="font-weight:bold;color:#1D3A6B">Министр Финансов</span>
+	
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206466" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-19T22:00:36Z" title="08/20/2023 01:00:36  AM" data-short="Авг 20">20.08.2023, 01:00:36</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206466_menu" class="ipsComment_ellipsis" id="elControlsComments_206466" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206466_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206466_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206466' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206466" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206466_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206466" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<p>
+	Приветствую всех! Увы, дела <abbr title="в реальной жизни">ИРЛ</abbr> не позволяли заняться этой темой ранее, но на следующей неделе наконец озвучу давно назревшие предложения по ряду вопросов.&nbsp;
+</p>
+
+<p>
+	Надеюсь, что удастся решить все намеченные вопросы в течение месяца, чтобы к октябрьским выборам получилось всё принять в конструктивной обстановке.&nbsp;
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206466" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206466" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206466" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206466&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206466_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206466&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206575"></a>
+<article id="elComment_206575" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206575_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206575" data-quotedata="{&quot;userid&quot;:65306,&quot;username&quot;:&quot;Alterus&quot;,&quot;timestamp&quot;:1693140369,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206575}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/65306-alterus/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/65306-alterus/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Alterus">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2022_05/2062136429_.thumb.jpg.1dbfcda613d156f9247c5cd07ab1a654.jpg" alt="Alterus" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Украина" data-ipsdialog="" data-ipsdialog-title="Пользователи из Украина" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ua">
+			<i class="ipsFlag ipsFlag-ua"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/65306-alterus/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/65306-alterus/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Alterus" class="ipsType_break"><span style="font-weight:bold;color:#1D3A6B">Alterus</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=65306&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 16,888
+	
+		</a>
+	
+
+    <span style="font-weight:bold;color:#1D3A6B">Министр Финансов</span>
+	
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206575" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-27T12:46:09Z" title="08/27/2023 03:46:09  PM" data-short="Авг 27">27.08.2023, 15:46:09</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206575_menu" class="ipsComment_ellipsis" id="elControlsComments_206575" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206575_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206575_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206575' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206575" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206575_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206575" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<p>
+	В общем, мы ещё в середине лета обсуждали с Платоном идею о внесении ответственности пользователей за мошенничество.&nbsp;
+</p>
+
+<p>
+	У нас в регламенте Бизнес-центра отдельной статьи о мошенничестве нет. Есть пункт о ликвидации финансовых организаций, заподозренных в мошенничестве. А также о снятии статуса предпринимателя, если он сделал мошенничество.
+</p>
+
+<p>
+	Но я согласился, что стоит добавить отдельную статью, где будет прописана норма о том, что в случае невозврата кредита/долга пользователь будет привлечён к ответственности. Ибо на данный момент конкретики нет и получается, что каждый раз надо полагаться на субъективное решение министра финансов и вышестоящих органов.&nbsp;
+</p>
+
+<p>
+	Платон также предлагал проголосовать по этому поводу в СП, однако я не согласен, ибо в Бизнес-Центре прописан ясный порядок изменения регламента голосованием организациями. Кстати, хорошая возможность опробовать это голосование на практике, я считаю.&nbsp;
+</p>
+
+<p>
+	Если у кого-то из вас есть дополнительные мысли по этому поводу, предлагайте.&nbsp;
+</p>
+
+<p>
+	Рассчитываю, что до конца созыва всё будет сделано, тем более ещё вопрос ФП надо будет разрешить.&nbsp;
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206575" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206575" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206575" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206575&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206575_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206575&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206576"></a>
+<article id="elComment_206576" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206576_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206576" data-quotedata="{&quot;userid&quot;:9913,&quot;username&quot;:&quot;Platon&quot;,&quot;timestamp&quot;:1693154931,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206576}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/platon" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/platon?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Platon">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2017_12/platon.thumb.jpg.ecbe0dd8c0a97f6af0cbd04b6f4abed5.jpg" alt="Platon" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/platon" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/platon?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль Platon" class="ipsType_break"><span style="font-weight:bold;color:#1D3A6B">Platon</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=9913&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 5,036
+	
+		</a>
+	
+
+    <span style="font-weight:bold;color:#1D3A6B">Председатель Совета Партий</span>
+	
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206576" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-27T16:48:51Z" title="08/27/2023 07:48:51  PM" data-short="Авг 27">27.08.2023, 19:48:51</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206576_menu" class="ipsComment_ellipsis" id="elControlsComments_206576" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206576_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206576_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206576' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206576" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206576_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206576" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<blockquote class="ipsQuote" data-gramm="false" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="206575" data-ipsquote-contentid="36151" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1693140369" data-ipsquote-userid="65306" data-ipsquote-username="Alterus" id="ips_uid_619_1183">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>     <a class="ipsPos_right" href="//www.strategium.ru/forum/?app=core&amp;module=system&amp;controller=content&amp;do=find&amp;content_class=core_Messenger_Conversation&amp;content_id=36151&amp;content_commentid=206575"><i class="fa fa-share"></i></a>    В 8/27/2023 в 3:46 PM,   <a href="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=65306" data-ipshover="" data-ipshover-target="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=65306&amp;do=hovercard">Alterus</a> сказал: </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-gramm="false" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			в Бизнес-Центре прописан ясный порядок изменения регламента голосованием организациями. Кстати, хорошая возможность опробовать это голосование на практике, я считаю.&nbsp;
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	<img alt=":good:" data-emoticon="true" loading="lazy" src="https://www.strategium.ru/forum/uploads/emoticons/good.gif" title=":good:"></p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206576" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206576" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206576" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206576&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206576_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206576&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+						
+
+
+
+
+<a id="comment-206577"></a>
+<article id="elComment_206577" class="ipsBox ipsBox--child ipsComment  ipsComment_parent ipsClearfix ipsClear   ">
+	
+
+<div id="comment-206577_wrap" data-controller="core.front.core.comment" data-commentapp="core" data-commenttype="messaging" data-commentid="206577" data-quotedata="{&quot;userid&quot;:16141,&quot;username&quot;:&quot;\u043b\u0435\u043a\u0441&quot;,&quot;timestamp&quot;:1693155291,&quot;contentapp&quot;:&quot;core&quot;,&quot;contenttype&quot;:&quot;messaging&quot;,&quot;contentclass&quot;:&quot;core_Messenger_Conversation&quot;,&quot;contentid&quot;:36151,&quot;contentcommentid&quot;:206577}" class="ipsComment_content ipsType_medium">
+	
+	
+	<div class="ipsComment_header ipsFlex ipsFlex-ai:start ipsFlex-jc:between">
+		<div class="ipsPhotoPanel ipsPhotoPanel_mini">
+			
+
+
+	<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль лекс">
+		<img src="https://www.strategium.ru/forum/uploads/monthly_2016_08/57aabb05e89b8_.png.3198472ac34e3aa0dd763fe08cb0c12a.thumb.png.31407e00871be72be0d62ebe1592a1af.png" alt="лекс" loading="lazy">
+	</a>
+
+			<div>
+				<h3 class="ipsComment_author ipsType_blendLinks">
+					<strong class="ipsType_normal">
+
+
+
+
+	
+		
+		
+		<a data-ipstooltip="" data-ipstooltip-label="Россия" data-ipsdialog="" data-ipsdialog-title="Пользователи из Россия" href="https://www.strategium.ru/forum/countries/?do=country&amp;country=ru">
+			<i class="ipsFlag ipsFlag-ru"></i>
+		</a>
+	
+<a href="https://www.strategium.ru/forum/profile/16141-leks/" rel="nofollow" data-ipshover="" data-ipshover-width="370" data-ipshover-target="https://www.strategium.ru/forum/profile/16141-leks/?do=hovercard&amp;referrer=https%253A%252F%252Fwww.strategium.ru%252Fforum%252Fmessenger%252F36151%252F%253Fpage%253D4%2526csrfKey%253Db15b76ffeacd606836fb31f244826498" title="Перейти в профиль лекс" class="ipsType_break"><span style="color:#4161d4">лекс</span></a></strong>
+					
+					
+
+	
+		<a href="https://www.strategium.ru/forum/index.php?app=core&amp;module=members&amp;controller=profile&amp;id=16141&amp;do=reputation&amp;type=forums_topic_post" title="Репутация пользователя" data-ipstooltip="" class="ipsRepBadge ipsRepBadge_positive">
+	
+			<i class="fa fa-plus-circle"></i> 11,625
+	
+		</a>
+	
+
+    <span style="color:#4161d4">Выдающийся гражданин</span>
+	 +  <span style="color:#56890A">Советник</span>
+				</h3>
+				<p class="ipsComment_meta ipsType_light ipsType_medium">
+					<a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206577" class="ipsType_blendLinks">Ответил: <time datetime="2023-08-27T16:54:51Z" title="08/27/2023 07:54:51  PM" data-short="Авг 27">27.08.2023, 19:54:51</time></a>
+					
+					
+					
+				</p>
+
+				
+			</div>
+		</div>
+		<div class="ipsType_reset ipsType_light ipsType_blendLinks ipsComment_toolWrap">
+			<div class="ipsResponsive_hidePhone ipsComment_badges">
+				<ul class="ipsList_reset ipsFlex ipsFlex-jc:end ipsFlex-fw:wrap ipsGap:2 ipsGap_row:1">
+					
+				</ul>
+</div>
+			
+				<ul class="ipsList_reset ipsComment_tools">
+<li>
+						<a href="#elControlsComments_206577_menu" class="ipsComment_ellipsis" id="elControlsComments_206577" title="Дополнительно..." data-ipsmenu="" data-ipsmenu-appendto="#comment-206577_wrap"><i class="fa fa-ellipsis-h"></i></a>
+						<ul id="elControlsComments_206577_menu" class="ipsMenu ipsMenu_narrow ipsHide">
+<!--						
+								<li class='ipsMenu_item'><a href='https://www.strategium.ru/forum/messenger/36151/?do=reportComment&amp;comment=206577' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='Спасибо за вашу жалобу!' data-ipsDialog-title="Жалоба" data-action='reportComment' title='Подать жалобу на публикацию'>Жалоба</a></li>
+							--><li class="ipsMenu_item"><a href="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206577" title="Поделиться комментарием" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-content="#elShareComment_206577_menu" data-ipsdialog-title="Поделиться комментарием" id="elShareComment_206577" data-role="shareComment">Поделиться</a></li>
+							
+								
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+						</ul>
+</li>
+					
+				</ul>
+			
+		</div>
+	</div>
+	<div class="ipsPadding_vertical sm:ipsPadding_vertical:half ipsPadding_horizontal">
+		<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+			<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="206575" data-ipsquote-contentid="36151" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1693140369" data-ipsquote-userid="65306" data-ipsquote-username="Alterus" id="ips_uid_619_1184">
+	  <div class="ipsQuote_citation ipsQuote_open">  <a href="#" data-action="toggleQuote">&nbsp;</a>     <a class="ipsPos_right" href="//www.strategium.ru/forum/?app=core&amp;module=system&amp;controller=content&amp;do=find&amp;content_class=core_Messenger_Conversation&amp;content_id=36151&amp;content_commentid=206575"><i class="fa fa-share"></i></a>    В 8/27/2023 в 3:46 PM,   <a href="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=65306" data-ipshover="" data-ipshover-target="//www.strategium.ru/forum/?app=core&amp;module=members&amp;controller=profile&amp;id=65306&amp;do=hovercard">Alterus</a> сказал: </div>
+
+	<div class="ipsQuote_contents ipsClearfix" data-ipstruncate="true" data-ipstruncate-type="hide" data-ipstruncate-size="7 lines" data-ipstruncate-expandtext="Развернуть">
+		<p>
+			<span>статьи о мошенничестве нет...в случае невозврата кредита/долга пользователь будет привлечен к ответственности...</span>
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	Не всякий не возврат долга мошенничество.
+</p>
+
+
+			
+		</div>
+	</div>
+	
+		<div class="ipsItemControls">
+			
+			<ul class="ipsComment_controls ipsClearfix ipsItemControls_left" data-role="commentControls">
+				
+					
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206577" class="ipsJS_show">
+							<button class="ipsButton ipsButton_light ipsButton_verySmall ipsButton_narrow cMultiQuote ipsHide" data-action="multiQuoteComment" data-ipstooltip="" data-ipsquote-multiquote="" data-mqid="mq206577" title="Мультицитата" style="display: inline-block;"><i class="fa fa-plus"></i></button>
+						</li>
+						<li data-ipsquote-editor="messenger_comment" data-ipsquote-target="#comment-206577" class="ipsJS_show">
+							<a href="#" data-action="quoteComment" data-ipsquote-singlequote="">Цитата</a>
+						</li>
+					
+				
+                            
+				<li class="ipsHide" data-role="commentLoading">
+					<span class="ipsLoading ipsLoading_tiny ipsLoading_noAnim"></span>
+				</li>
+			
+						
+
+<span data-controller="bookmark.front.bookmark.link">
+
+    <a href="https://www.strategium.ru/forum/messenger/36151/?do=bookmarkComment&amp;comment=206577&amp;csrfKey=b15b76ffeacd606836fb31f244826498&amp;isButton=" data-action="bookmark" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Создание закладки" data-ipsdialog-remotesubmit="true">В закладки</a>
+
+</span>
+					</ul>
+</div>
+	
+
+	
+
+
+
+
+
+<div class="ipsPadding ipsHide cPostShareMenu" id="elShareComment_206577_menu">
+	<h5 class="ipsType_normal ipsType_reset">Ссылка на комментарий</h5>
+	
+		
+	
+	
+	
+	
+	<input type="text" value="https://www.strategium.ru/forum/messenger/36151/?do=findComment&amp;comment=206577&amp;_rid=172583" class="ipsField_fullWidth">
+
+	
+</div>
+</div>
+
+</article>
+					
+				
