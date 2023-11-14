@@ -385,7 +385,8 @@ h1 {
 	flex-wrap: wrap;
 }
 #memberList > a {
-	flex: 0 0 31%;
+	flex: 1 0 31%;
+	min-width: 300px;
 	display: flex;
 	align-items: center;
 	padding: 7px;
@@ -579,6 +580,7 @@ blockquote {
 	padding: 12px;
 	text-decoration: none;
 	margin: 10px 0;
+	box-sizing: border-box;
 }
 .linkBox:hover {
 	background-color: #f7fcff;
@@ -586,8 +588,11 @@ blockquote {
 .linkBox:active {
 	background-color: #d0d7df;
 }
+.linkText {
+	flex-grow: 1;
+	flex-shrink: 1;
+}
 .linkTopic {
-	max-width: 450px;
 	font-weight: bold;
 	color: #333;
 	white-space: nowrap;
@@ -657,4 +662,31 @@ a:hover .linkArrow {
 p > img, .emoji {
     display: inline-block;
     vertical-align: middle;
+}
+
+@media (max-width: 1023px) {
+	body {
+		margin: 5px;
+	}
+	#mainHeader {
+		padding: 10px 10px 6px;
+	}
+	main {
+		padding: 8px 10px;
+	}
+	.messageBox {
+		margin: 6px 0;
+	}
+	.messageHeader {
+		padding: 8px 10px 0;
+	}
+	.messageBody {
+		padding: 10px;
+	}
+	.quoteHeader {
+		padding: 6px 8px;
+	}
+	.quoteBody {
+		padding: 6px 8px;
+	}
 }
